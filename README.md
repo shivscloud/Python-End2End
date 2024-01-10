@@ -1,6 +1,6 @@
 # Python Zero to Hero for DevOps Engineers
 
-<img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://github.com/iam-veeramalla/python-for-devops/assets/43399466/d70f5fe2-0ba3-449d-b41f-413a38fc4584">
+<img width="1141" alt="Screenshot 2023-10-12 at 9 57 40 PM" src="https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg">
 
 ## Intro
 - Introduction to Python and its role in DevOps.
